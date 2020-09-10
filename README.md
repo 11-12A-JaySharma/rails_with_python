@@ -17,6 +17,6 @@ Contributing: This is our first project on "ruby on rails" , if there any issue 
 Credits: Anu Madan (Taught , how to make this project)
          Jay Sharma (Python coder)
          Yash Jain (Html coder)
-         Pranav Jadia (Ruby on Rails developer)
+         Pranav Jadia (Ruby on Rails)
 
 License: 
